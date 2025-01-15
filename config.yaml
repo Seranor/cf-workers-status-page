@@ -38,3 +38,5 @@ monitors:
     url: 'https://chat.seranor.com/'
     method: GET
     expectStatus: 200
+
+

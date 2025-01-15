@@ -38,10 +38,3 @@ monitors:
     url: 'https://chat.seranor.com/'
     method: GET
     expectStatus: 200
-
-  - id: edgetunnel-seranor-com
-    name: edgetunnel.seranor.com
-    description: '白嫖cloudflare的隧道'
-    url: 'https://edgetunnel.seranor.com/576c1cce-a2fb-4af8-bf48-94982b8dbb7c'
-    method: GET
-    expectStatus: 200
